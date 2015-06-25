@@ -1,8 +1,8 @@
 {
-  "name": "electron-jsx-babel-boilerplate",
-  "version": "1.0.0",
+  "name": "electron-cjsx-coffee-boilerplate",
+  "version": "0.0.1",
   "authors": [
-    "Quramy"
+    "runtBlue"
   ],
   "license": "MIT",
   "ignore": [
